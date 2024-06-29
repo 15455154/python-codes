@@ -6,7 +6,7 @@ if ans == "true" :
     print("yes you are absolutely correct")
 #cheaks the answer and if true prints
 else:#if NOT true
-    print("Sorry your wrong please try agine")
+    print("Sorry your wrong please try again")
     ans = input("your school is VVS .   True or false: ")
     ans = ans.lower() 
     if ans == "true" :
